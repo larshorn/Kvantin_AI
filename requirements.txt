@@ -1,0 +1,8 @@
+seaborn==0.10.1
+Quandl==3.5.2
+pandas==1.0.5
+streamlit==0.66.0
+QuantStats==0.0.25
+yfinance==0.1.54
+numpy==1.19.1
+matplotlib==3.2.1
